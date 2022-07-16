@@ -3,9 +3,8 @@ vaccine in your district
 
 the telegrambot tells about the vaccination info in our district using "apisetu-API"
 
-it gives the information 
-the age eligibility i.e is for 18+ or 45+
-it also give information as follows
+it gives the information as follows
+Age eligibility i.e is for 18+ or 45+
 State:
 District:
 Center:
